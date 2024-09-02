@@ -1,5 +1,4 @@
 # Olá! Meu nome é Renato! 🙋🏻‍♂️
-## Bem vindo ao meu perfil no GitHub!
 ### Aqui apresentarei alguns projetos e trabalhos desenvolvidos na faculdade de Tecnologia da Informação
 ![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=renat0ben&show_icons=true&theme=tokyonight)
 
